@@ -23,6 +23,11 @@
 
 * [What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
 * [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
+* What do you need to Know about Python, Pierluigi Riti 2016 Packt Publishing.
+* [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1489852822&sr=8-1&keywords=joel+grus) de  Joel Grus 2015 O’Reilly Media : Chapter 1- 2.
+* Introducing Data Science, Big Data, Machine Learning and more using Python Tools, Chapter 1-2.
+
+
 
 ## Herramientas a  usar 
 
