@@ -17,7 +17,12 @@
 * Clase 22-25: Algoritmos de machine learning.
 * clase 26-28: D3 en Jupyter. Ejemplos
 
+## Lecturas
 
+###  Clases 1-2
+
+* [What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
+* [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
 
 ## Herramientas a  usar 
 
