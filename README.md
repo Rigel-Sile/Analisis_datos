@@ -5,7 +5,7 @@
 
 * Clase1: Introducción al análisis de datos
 * Clase 2: Ipython and Jupyter
-* Clase 3 -4: Introducción a Pandas
+* [Clase 3 -4: Introducción a Pandas](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
   - Objeto Series de  pandas
   - Objeto Dataframe de pandas
 * Clase 5-6: Numpy para pandas
