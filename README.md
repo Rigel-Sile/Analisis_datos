@@ -3,7 +3,7 @@
 
 # Temario 
 
-* Clase1: Introducción al análisis de datos
+* [Clase1: Introducción al análisis de datos](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Clase1/Clase1.ipynb).
 * Clase 2: Ipython and Jupyter
 * [Clase 3 -4: Introducción a Pandas](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
   - Objeto Series de  pandas
