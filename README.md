@@ -27,7 +27,14 @@
 * What do you need to Know about Python, Pierluigi Riti 2016 Packt Publishing.
 * [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1489852822&sr=8-1&keywords=joel+grus) de  Joel Grus 2015 O’Reilly Media : Chapter 1- 2.
 * [Introducing Data Science, Big Data, Machine Learning and more using Python Tools](https://www.manning.com/books/introducing-data-science), Davy Cielen, Arno D. B. Meysman, and Mohamed Ali   Chapter 1-2.
+* [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/).
+* []()
 
+
+### Clase 3-4
+
+* [Memory layout of multi-dimensional arrays](http://eli.thegreenplace.net/2015/memory-layout-of-multi-dimensional-arrays/).
+* [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/).
 
 
 ## Herramientas a  usar 
