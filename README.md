@@ -29,7 +29,7 @@
 * [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1489852822&sr=8-1&keywords=joel+grus) de  Joel Grus 2015 O’Reilly Media : Chapter 1- 2.
 * [Introducing Data Science, Big Data, Machine Learning and more using Python Tools](https://www.manning.com/books/introducing-data-science), Davy Cielen, Arno D. B. Meysman, and Mohamed Ali   Chapter 1-2.
 * [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/).
-* []()
+* [Numba vs cython](https://jakevdp.github.io/blog/2013/06/15/numba-vs-cython-take-2/).
 
 
 ### Clase 3-4
