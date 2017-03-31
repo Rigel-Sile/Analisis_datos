@@ -35,6 +35,7 @@
 ### Clase 3-4
 
 * [Memory layout of multi-dimensional arrays](http://eli.thegreenplace.net/2015/memory-layout-of-multi-dimensional-arrays/).
+* [Broadcasting in Numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc).
 * [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/).
 
 
