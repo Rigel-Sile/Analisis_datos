@@ -7,7 +7,7 @@
 * [Clase 2: Ipython and Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Ipython-Jupyter.ipynb).
   - [Errores, depuracion , perfiles en Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Errores-depuracion-perfiles.ipynb).
 * [Clase 3-5: Introducción a Pandas](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
-  - Introducción a Numpy
+  - [Introducción a Numpy](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Pre-requisitos/numpy-scipy/Notas-Numpy.ipynb).
   - Objeto Series de  pandas
   - Objeto Dataframe de pandas
 * Clase 6: Numpy para pandas
