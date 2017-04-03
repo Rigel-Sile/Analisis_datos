@@ -6,12 +6,12 @@
   - [Errores, depuracion , perfiles en Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Errores-depuracion-perfiles.ipynb).
 * [Clase 3-5: Introducción a Pandas](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
   - [Introducción a Numpy](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Pre-requisitos/numpy-scipy/Notas-Numpy.ipynb).
-  - Objeto Series de  pandas
-  - Objeto Dataframe de pandas
-* Clase 6: Numpy para pandas
-* Clase 7-8 Accediendo a los datos con pandas
-* Clase 9-10 Formas de corregir los datos con pandas(tidying up)
-* Clase 11-14: Manipulación de datos con pandas
+  - Objeto Series de  pandas.
+  - Objeto Dataframe de pandas.
+* Clase 6: Numpy para pandas.
+* Clase 7-8 Accediendo a los datos con pandas.
+* Clase 9-10 Formas de corregir los datos con pandas(tidying up).
+* Clase 11-14: Manipulación de datos con pandas.
 * Clase 16-18: Aplicaciones: Uso de Scrapy.
 * Clase 19-21: Introducción a la visualización con seaborn y Bokeh.
 * Clase 22-25: Algoritmos de machine learning.
@@ -34,12 +34,21 @@ c-lara@Lara:~$sudo apt-get update
 c-lara@Lara:~$sudo apt-get install git
 ```
 
-Referencias y Lecturas
+Referencias y Lecturas:
 
 - [Usando el GIT](http://www.cs.swarthmore.edu/~newhall/unixhelp/git.php).
 - [Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction).
 - [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-es.html).
 
+### GitHub Classroom
+
+[GitHub Classroom ](https://classroom.github.com/)  es una propuesta de Github para ser una guía para el salón de clases, donde explican como crear una organización para dictar una clase determinada  y paso a paso convertirla en el motor de aprendizaje del curso.
+
+Videos:
+
+- [Github-Classroom-Getting Started](https://www.youtube.com/watch?v=ChA_zph7aao).
+- [GitHub Classroom — How to set up individual assignments ](https://www.youtube.com/watch?v=rTsfBAV7sOo).
+- [GitHub Classroom — How to set up group assignments ](https://www.youtube.com/watch?v=-52quDR2QSc).
 
 ## Lecturas
 
