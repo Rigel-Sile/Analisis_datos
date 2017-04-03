@@ -1,5 +1,6 @@
 # Análisis de datos con Python
 
+# Requisitos
 
 # Temario 
 
