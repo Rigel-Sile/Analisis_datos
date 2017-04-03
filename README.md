@@ -20,6 +20,30 @@
 * Clase 22-25: Algoritmos de machine learning.
 * clase 26-28: D3 en Jupyter. Ejemplos.
 
+## Requisitos
+
+### Git y Github
+
+[Git](https://git-scm.com/) es un sistema de control de versiones de gran potencia y versatilidad en el manejo de un gran número de archivos de  código fuente a a través del desarrollo no lineal, es decir vía la gestión rápida de ramas y mezclado de diferentes versiones.
+
+Para poder revisar y aprender los comandos necesarios de Git, puedes darle una ojeada al excelente [tutorial de CodeSchool](https://try.github.io/levels/1/challenges/1) o a la [guía](http://rogerdudler.github.io/git-guide/index.es.html) de Roger Dudle para aprender  Git.
+
+[Github](https://github.com/) es una plataforma de desarrollo colaborativo de software utilizado para alojar proyectos (muchos proyectos importantes como paquetes de R, Django, el Kernel de Linux, se encuentran alojados ahí) utilizando Git y el framework Ruby on Rails.
+
+Podemos instalar Git en Ubuntu utilizando el administrador de paquetes `Apt`:
+
+```bash
+c-lara@Lara:~$sudo apt-get update
+c-lara@Lara:~$sudo apt-get install git
+```
+
+Referencias y Lecturas
+
+- [Usando el GIT](http://www.cs.swarthmore.edu/~newhall/unixhelp/git.php).
+- [Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction).
+- [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-es.html).
+
+
 ## Lecturas
 
 ###  Clases 1-2
@@ -42,6 +66,42 @@
 
 ## Herramientas a  usar 
 
+### Anaconda 
+
+[Anaconda](https://www.continuum.io/downloads) es una distribución completa  libre de [Python](https://www.python.org/) incluye [paquetes de Python ](http://docs.continuum.io/anaconda/pkg-docs).
+
+Anaconda incluye los instaladores de Python 2.7 y 3.5.  La instalación en **Linux**, se encuentra en la página de Anaconda y es más o menos así
+
+1 . Descargar el instalador de Anaconda para Linux.
+
+2 . Después de descargar el instalar, en el terminal, ejecuta para 3.5
+
+```bash
+c-lara@Lara:~$ bash Anaconda3-2.4.1-Linux-x86_64.sh
+
+```
+
+Es recomendable leer, alguna de las característica de Anaconda en el siguiente material [conda 30-minutes test drive](http://conda.pydata.org/docs/test-drive.html).
+
+3 . La instalación de paquetes como [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) o [bokeh](http://bokeh.pydata.org/en/latest/) se pueden realizar a través de Anaconda, de la siguiente manera:
+
+
+
+``` bash
+c-lara@Lara:~$ conda install bokeh
+```
+
+Alternativamente podemos desde PyPI usando **pip**:
+
+```bash
+c-lara@Lara:~$ pip install bokeh
+``` 
+
+El proyecto [Anaconda](https://www.continuum.io/downloads) ha creado [R Essentials](http://anaconda.org/r/r-essentials), que incluye el IRKernel y alrededor de 80 paquetes para análisis de datos, incluyendo `dplyr`, `shiny`, `ggplot2`,`caret`, etc. Para instalar **R Essentials** en un entorno de trabajo, hacemos
+
+```bash
+c-lara@Lara:~$ conda install -c r r-essentials
+``` 
 
 ### Proyecto Jupyter y el Jupyter Nbviewer
 
@@ -93,42 +153,7 @@ Para poder instalar en Ubuntu, es preferible revisar la [documentación](http://
 
 
 
-### Anaconda 
 
-[Anaconda](https://www.continuum.io/downloads) es una distribución completa  libre de [Python](https://www.python.org/) incluye [paquetes de Python ](http://docs.continuum.io/anaconda/pkg-docs).
-
-Anaconda incluye los instaladores de Python 2.7 y 3.5.  La instalación en **Linux**, se encuentra en la página de Anaconda y es más o menos así
-
-1 . Descargar el instalador de Anaconda para Linux.
-
-2 . Después de descargar el instalar, en el terminal, ejecuta para 3.5
-
-```bash
-c-lara@Lara:~$ bash Anaconda3-2.4.1-Linux-x86_64.sh
-
-```
-
-Es recomendable leer, alguna de las característica de Anaconda en el siguiente material [conda 30-minutes test drive](http://conda.pydata.org/docs/test-drive.html).
-
-3 . La instalación de paquetes como [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) o [bokeh](http://bokeh.pydata.org/en/latest/) se pueden realizar a través de Anaconda, de la siguiente manera:
-
-
-
-``` bash
-c-lara@Lara:~$ conda install bokeh
-```
-
-Alternativamente podemos desde PyPI usando **pip**:
-
-```bash
-c-lara@Lara:~$ pip install bokeh
-``` 
-
-El proyecto [Anaconda](https://www.continuum.io/downloads) ha creado [R Essentials](http://anaconda.org/r/r-essentials), que incluye el IRKernel y alrededor de 80 paquetes para análisis de datos, incluyendo `dplyr`, `shiny`, `ggplot2`,`caret`, etc. Para instalar **R Essentials** en un entorno de trabajo, hacemos
-
-```bash
-c-lara@Lara:~$ conda install -c r r-essentials
-``` 
 
 ## Software
 
