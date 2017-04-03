@@ -1,7 +1,4 @@
 # Análisis de datos con Python
-
-# Requisitos
-
 # Temario 
 
  [Clase1: Introducción al análisis de datos](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase1/Clase1.ipynb).
@@ -112,32 +109,6 @@ El [Proyecto Jupyter](http://jupyter.org/)  es una aplicación web que te permit
 
 - [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
 
-
-### Git y Github
-
-[Git](https://git-scm.com/) es un sistema de control de versiones de gran potencia y versatilidad en el manejo de un gran número de archivos de  código fuente a a través del desarrollo no lineal, es decir vía la gestión rápida de ramas y mezclado de diferentes versiones.
-
-Para poder revisar y aprender los comandos necesarios de Git, puedes darle una ojeada al excelente [tutorial de CodeSchool](https://try.github.io/levels/1/challenges/1) o a la [guía](http://rogerdudler.github.io/git-guide/index.es.html) de Roger Dudle para aprender  Git.
-
-[Github](https://github.com/) es una plataforma de desarrollo colaborativo de software utilizado para alojar proyectos (muchos proyectos importantes como paquetes de R, Django, el Kernel de Linux, se encuentran alojados ahí) utilizando Git y el framework Ruby on Rails.
-
-Podemos instalar Git en Ubuntu utilizando el administrador de paquetes `Apt`:
-
-```bash
-c-lara@Lara:~$sudo apt-get update
-c-lara@Lara:~$sudo apt-get install git
-```
-
-Referencias y Lecturas
-
-- [Usando el GIT](http://www.cs.swarthmore.edu/~newhall/unixhelp/git.php).
-- [Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction).
-- [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-es.html).
-
-
-
-
-
 ### MongoDB
 
 [MongoDB](https://www.mongodb.org/) es una sistema de base de datos NoSQL de código abierto utilizado  en aplicaciones web modernas, escrito en C++ le confiere cierta cercanía a los recursos del hardware, de modo que es bastante rápido a la hora de ejecutar sus tareas. MongoDB es una base de datos orientada a documentos, es decir guarda los datos en documentos que son almacenados en un representación binaria de JSON, llamado BSON.
@@ -146,14 +117,10 @@ Genbeta:dev tiene una lista de [artículos](http://www.genbetadev.com/bases-de-d
 
 - [¿Qué es MongoDB?](https://www.youtube.com/watch?v=CvIr-2lMLsk).
 - [Comparación de SQL y MongoBD](https://www.youtube.com/watch?v=kDSjVTpu8kI).
+- [Mongo demo](https://rsandstroem.github.io/MongoDBDemo.html)
 - [Contruyendo tu primera aplicación con MongoDB](https://www.youtube.com/watch?v=ClAQEARNUoQ).
 
 Para poder instalar en Ubuntu, es preferible revisar la [documentación](http://docs.mongodb.org/master/tutorial/install-mongodb-on-ubuntu/) desde la página de MongoDB.
-
-
-
-
-
 
 ## Software
 
